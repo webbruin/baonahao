@@ -1,0 +1,8 @@
+{
+  "u1":[
+    {"name":"艺术","img":"/src/assets/img/navicon/class_img01.png"},
+    {"name":"体育","img":"/src/assets/img/navicon/class_img02.png"},
+    {"name":"小学","img":"/src/assets/img/navicon/class_img03.png"},
+    {"name":"初中","img":"/src/assets/img/navicon/class_img04.png"}
+  ]
+}

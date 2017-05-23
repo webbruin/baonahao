@@ -1,0 +1,39 @@
+.head{
+  height: 40px;
+  line-height: 40px;
+  background: red;
+  color: #fff;
+  font-size: 16px;
+  width: 100%;
+  margin-bottom:10px;
+}
+.head .login{
+  padding-left:20px;
+  padding-right:15px;
+  width: 80px;
+}
+.c{
+  line-height: 30px;
+}
+.c input{
+  width: 100%;
+  border-radius: 5px;
+}
+.head a{
+  display: inline-block;
+  align-self:center;
+  color: #fff;
+}
+.head .city{
+  width: 80px;
+  padding-right:36px;
+  background: url(../img/city_change.png) no-repeat 45px 18px;
+  background-size:16px 12px;
+}
+
+.head .search{
+  height: 20px;
+  background:#fff url(../img/search_class.png) no-repeat 2px 5px;
+  background-size: 12px 12px;
+  padding-left: 15px;
+}
